@@ -273,4 +273,6 @@ Expected final message: `Congratulations! Netlists match.`
 The `led_blinker` design completed the full RTL-to-GDSII flow on sky130hd with a DRC-clean layout and a layout-versus-schematic match, and the LVS reconciliation steps are documented for reproducibility.
 
 Possible extensions: a larger counter or programmable blink rate, multi-corner timing sign-off, and automating the LVS power-net labelling inside the flow.
-README_END
+
+P.HARSHA VARDHAN REDDY
+24EG104B20
